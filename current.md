@@ -1,15 +1,15 @@
-# hh
+# Greg Hogg DSA
+
+Finish Greg DSA Theory 17 video:
+
+
+
+
+... Then Greg Array & String:
+
+
 
 # Scott DSA: 2 Big o
-
-
-
-
-# greg dsa
-
-
-
-
 
 
 
