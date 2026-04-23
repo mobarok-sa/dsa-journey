@@ -15,6 +15,17 @@ check my chatgpt
 Video 2 - Static Array, Dynamic Array and String:
 
 
+Array Big O
+
+Ops             |               Array
+Appending to end -             *O(1) ( * amortized, means on average).
+Popping form end -              O(1)
+Insertion, not from end -       O(n)
+Deletaion, not from end -       O(n)
+Modifying an element -          O(1)
+Random access -                 O(1)
+Checking if element exists -    O(n)
+
 
 
 
