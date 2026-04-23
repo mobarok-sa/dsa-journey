@@ -1,0 +1,2 @@
+# greedy algo
+print("workd")

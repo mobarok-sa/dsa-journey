@@ -1,6 +1,12 @@
-# Now finish in this eid vacation the soctt dsa
+# hh
 
 # Scott DSA: 2 Big o
+
+
+
+
+# greg dsa
+
 
 
 
@@ -12,4 +18,5 @@ Later-
 
 # Grokking Algorithm
 
-000 page
+171  page - np set problems
+
