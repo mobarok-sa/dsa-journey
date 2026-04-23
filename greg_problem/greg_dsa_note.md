@@ -6,6 +6,17 @@ Video 1 - Time & Space Complexity:
 check my chatgpt
 
 
+### Key Concepts
+- Big O notation
+- Time Complexity
+- Quadratic function
+- Parabola
+
+Video 2 - Static Array, Dynamic Array and String:
+
+
+
+
 
 Finish?:
 
