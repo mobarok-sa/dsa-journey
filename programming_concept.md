@@ -1,0 +1,3 @@
+- comparison operations
+- absolute value logic
+- array traversal

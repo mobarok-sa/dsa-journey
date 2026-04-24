@@ -29,6 +29,14 @@ Checking if element exists -    O(n)
 
 
 
+Video 3: LinkedList - Singly and Doubly LinkedList:
+
+
+
+
+
+
+
 Finish?:
 
 1. Time & Space Complexity: Done
